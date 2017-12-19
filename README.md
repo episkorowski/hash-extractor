@@ -9,12 +9,10 @@ you're trying to extract hashes from. The hashes are dumped in the same director
 The first argument is the location to mount (sda1, sda2, etc.) and the second is whether the partition is a 
 Windows or Linux system. Could probably just check how the partition is formatted and figure it out that way, but ¯\_(ツ)_/¯</p>
 
-<p>
 Example Usage:
 chmod +x  script.sh
 sudo bash script.sh sda2 Windows
-</p>
 
-<p>Happy Cracking!</p>
+Happy Cracking!
 
 
