@@ -3,9 +3,9 @@
 # $1  The location to mount
 # $2  Windows or Linux
 
-# How to run:
+# Example Usage:
 # chmod +x  script.sh
-# sudo bash script.sh sda<n> <system>
+# sudo bash script.sh sda2 windows
 
 # Directory of the script
 # (hashes.txt dumped here)
